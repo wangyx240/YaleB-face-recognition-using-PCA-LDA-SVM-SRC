@@ -7,3 +7,5 @@ This project include 6 parts:
 4. SRC
 5. PCA/LDA/HOG/LBP + SVM
 6. PCA/LDA/HOG/LBP + SRC
+
+
